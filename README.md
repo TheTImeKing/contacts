@@ -1,4 +1,4 @@
-# Contatcs back0end app written in python
+# Contatcs back-end app written in python
 
 I have created a single contacs amanagment application using python.
 
