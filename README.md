@@ -4,6 +4,6 @@ I have created a single contacs amanagment application using python.
 
 To devolop the app I have used the following python pregraming elemnts:
 
-- fuctions
+- functions
 - json module
 - file read and write
